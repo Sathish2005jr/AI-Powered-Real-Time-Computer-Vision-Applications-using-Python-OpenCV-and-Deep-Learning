@@ -1,0 +1,8 @@
+opencv-4.x/
+*.weights
+*.caffemodel
+*.pb
+*.pbtxt
+*.avi
+*.mp4
+*.zip
