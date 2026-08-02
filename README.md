@@ -29,3 +29,9 @@
 - Easy to run
 - Beginner-friendly
 - Modular project structure
+
+## AI-Powered Computer Vision Projects | Python, OpenCV, Deep Learning
+
+- Developed real-time Face Detection, Age & Gender Detection, and Object Detection applications using Python and OpenCV.
+- Implemented pretrained deep learning models for accurate real-time inference from webcam input.
+- Designed modular computer vision applications with live video processing and object labeling.
